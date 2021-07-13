@@ -1,0 +1,29 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@*@addTagHelper *, MyViewComponent.ViewComponents*@
+
+@addTagHelper *, MyViewComponent
+
+@{
+}
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>myViewComponent</title>
+</head>
+<body>
+    @*@await Component.InvokeAsync("My")
+        <vc:My>ddd</vc:My>*@
+
+    @* @await Component.InvokeAsync("My", 5)*@
+
+    <vc:My param="6">ddd</vc:My>
+
+</body>
+        </html>

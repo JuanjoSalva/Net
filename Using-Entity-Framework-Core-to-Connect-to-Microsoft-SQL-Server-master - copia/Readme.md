@@ -1,1 +1,0 @@
-##Using Entity Framework Core to Connect to Microsoft SQL Server

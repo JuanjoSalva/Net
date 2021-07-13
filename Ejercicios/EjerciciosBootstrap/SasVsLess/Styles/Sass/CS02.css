@@ -1,0 +1,12 @@
+.p {
+  color: #000;
+  font-size: 16px;
+}
+.p span {
+  color: #FF0000;
+}
+.p span em {
+  text-decoration: underline;
+}
+
+/*# sourceMappingURL=CS02.css.map */

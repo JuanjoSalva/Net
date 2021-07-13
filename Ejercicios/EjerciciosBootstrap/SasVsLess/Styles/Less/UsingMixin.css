@@ -1,0 +1,17 @@
+/* Define a class */
+.normalized-text {
+  font-weight: 300;
+  line-height: 1.2;
+}
+/* Use a mixin in multiple places */
+.description {
+  font-weight: 300;
+  line-height: 1.2;
+  color: red;
+}
+.comment {
+  font-weight: 300;
+  line-height: 1.2;
+  padding: 20px;
+  color: grey;
+}

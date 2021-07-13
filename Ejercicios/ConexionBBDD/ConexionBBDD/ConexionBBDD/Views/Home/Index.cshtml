@@ -1,0 +1,50 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@*  ESTA PRIMERA PRUEBA ES SI LO PASAMOS Y RECUPERAMOS POR VIEWBAG
+    
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+        <link type="text/css" rel="stylesheet" href="~/css/butterflies-shop-styles.css" />
+    </head>
+    <body>
+        @foreach (var cat in ViewBag.Categorias)
+        {
+            <div>
+                @cat
+            </div>
+        }
+    </body>
+    </html>*@
+
+
+@*ESTA SEGUNDA PRUEBA ES SI PASAMOS LOS DATOS COMO SI FUERA UN MODELO, EN REALIDAD NO SE HA CREADO MODELO*@
+@model List<string>
+    <!DOCTYPE html>
+
+    <html>
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Index</title>
+        <link type="text/css" rel="stylesheet" href="~/css/butterflies-shop-styles.css" />
+    </head>
+    <body>
+
+        Categorias</br>
+        <ol>
+            @foreach (var item in Model)
+            {
+                <li>  @item </li>
+            }
+        </ol>
+
+    </body>
+</html>

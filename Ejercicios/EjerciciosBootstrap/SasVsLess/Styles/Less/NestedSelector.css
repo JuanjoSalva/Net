@@ -1,0 +1,10 @@
+.p {
+  color: #000000;
+  font-size: 16px;
+}
+.p span {
+  color: #FF0000;
+}
+.p span em {
+  text-decoration: underline;
+}

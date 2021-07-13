@@ -1,0 +1,13 @@
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\bin\Debug\netcoreapp3.1\PruebaEsambly.exe
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\bin\Debug\netcoreapp3.1\PruebaEsambly.deps.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\bin\Debug\netcoreapp3.1\PruebaEsambly.runtimeconfig.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\bin\Debug\netcoreapp3.1\PruebaEsambly.runtimeconfig.dev.json
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\bin\Debug\netcoreapp3.1\PruebaEsambly.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\bin\Debug\netcoreapp3.1\PruebaEsambly.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.csprojAssemblyReference.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.AssemblyInfoInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.AssemblyInfo.cs
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.csproj.CoreCompileInputs.cache
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.dll
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.pdb
+E:\JUANJO\CURSO2020\MODULO2_CSHARP\PruebaEsambly\obj\Debug\netcoreapp3.1\PruebaEsambly.genruntimeconfig.cache

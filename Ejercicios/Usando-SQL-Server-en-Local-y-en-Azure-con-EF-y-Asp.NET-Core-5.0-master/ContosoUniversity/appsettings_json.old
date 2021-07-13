@@ -1,0 +1,13 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnectionString": "Server=tcp:adventureworksbmvb.database.windows.net,1433;Initial Catalog=ContosoUniversity;Persist Security Info=False;User ID=manager;Password=P3cs0055bb;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft": "Warning",
+      "Microsoft.Hosting.Lifetime": "Information"
+    }
+  },
+  "AllowedHosts": "*"
+}

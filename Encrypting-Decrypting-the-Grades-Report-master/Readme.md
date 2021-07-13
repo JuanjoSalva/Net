@@ -1,1 +1,0 @@
-Se encriptan y desencriptan los datos de los reports xml

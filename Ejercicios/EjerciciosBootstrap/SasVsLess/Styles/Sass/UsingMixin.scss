@@ -1,0 +1,15 @@
+/* Define a mixin */
+@mixin normalized-text() {
+    font-weight: 300;
+    line-height: 1.2;
+  }
+   
+  /* Use a Mixin in multiple places */
+  .description {
+    @include normalized-text();
+    color: red;
+  }
+  .comment {
+    @include normalized-text();
+    color: grey;
+  }

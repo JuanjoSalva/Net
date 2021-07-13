@@ -1,0 +1,9 @@
+$main-color: #80E619;
+ 
+.main-headline {
+  color: darken($main-color, 20%);
+}
+ 
+.sub-headline {
+  color: lighten($main-color, 20%);
+}

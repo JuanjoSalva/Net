@@ -1,0 +1,18 @@
+@mixin season($season) {
+    @if($season == summer) {
+      color: red;
+    }
+    @else if ($season == autumn) {
+      color: orange;
+    }
+    @else if ($season == winter) {
+      color: grey;
+    }
+    @else {
+      color: green;
+    }
+  }
+   
+  .description {
+    @include season(summer);
+  }
