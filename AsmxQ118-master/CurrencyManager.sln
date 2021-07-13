@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CurrencyManager", "CurrencyManager\CurrencyManager.csproj", "{F6B63313-68CA-425A-AEB7-7A01ADA518BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F6B63313-68CA-425A-AEB7-7A01ADA518BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B63313-68CA-425A-AEB7-7A01ADA518BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B63313-68CA-425A-AEB7-7A01ADA518BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B63313-68CA-425A-AEB7-7A01ADA518BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B307BFB1-E21A-49AD-A80F-ADDF9958349E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,65 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <input type="text" id="currencyType" name="currencyType" placeholder="Enter Currency Name" pattern="[A-Z]{3}" />
+    <button onclick="getExchangeRate()">Cambio de moneda</button>
+
+    <p id="currencyValue">Valor del cambio:</p>
+    <script text="text/javascript">
+        //success: function (result) { currencyRate = result; alert("Success"+currencyRate);},
+        //contentType: "application/json; charset=utf-8",
+        var currencyRate = 0;
+        function getExchangeRate() {
+            var patt1 = /[A-Z]/g;
+            if (patt1.test(document.getElementById("currencyType").value)) {
+                var url = "http://localhost:1349/CurrencyConverter.asmx";
+                $.ajax({
+                    type: "GET",
+                    url: url + "/GetExchangeRate",
+                    cache: false,
+                    data: { 'CurrencyType': getCurrencyType() },
+                    //contentType: "application/json",
+                    dataType: "json",
+                    //success: OnSuccessCall,
+                    success: function (result) {
+                        //alert(JSON.stringify(result));
+                        currencyRate = JSON.stringify(result);
+                        document.getElementById("currencyValue").innerText = currencyRate;
+                    },
+                    error: OnErrorCall
+                });
+            }
+            else
+                alert("Invalid Currency Name, try agin!");
+        }
+        function OnSuccessCall(response) {
+            alert(response[0].CurrencyRate);
+        }
+
+        function OnErrorCall(response) {
+            alert("Failure" + response.status + " " + response.statusText + "->" + response.d);
+            document.getElementById("currencyValue").innerText = "Currency Name Invalid";
+        }
+
+        function getCurrencyType() {
+            let currencyType = document.getElementById("currencyType").value;
+            switch (currencyType) {
+                case "USD":
+                case "EUR":
+                    currencyType = currencyType;
+                    break;
+                default:
+                    currencyType = "USD";
+            }
+            return currencyType;
+            //return "USD";
+        }
+
+    </script>
+</body>
+</html>

@@ -1,0 +1,23 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "mi servidor local para subir archivo scon ajax",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanjoSalva/ServidorLocal.git"
+  },
+  "author": "Juanjo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanjoSalva/ServidorLocal/issues"
+  },
+  "homepage": "https://github.com/JuanjoSalva/ServidorLocal#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.0"
+  }
+}
