@@ -8,7 +8,7 @@ Para usar la por defecto: wwwroot:
  app.UseStaticFiles();   
 
 
-![image-20201119001307642](https://github.com/JuanjoSalva/Configuring-Middleware/blob/master/images/image-20201119002427362.png)
+![image-20201119001307642](image-20201119002427362.png)
 
 
 
@@ -20,7 +20,7 @@ para usar una carpeta customizada:
             });
     
 
-![image-20201119001307642](https://github.com/JuanjoSalva/Configuring-Middleware/blob/master/images/image-20201119002535809.png)
+![image-20201119001307642](image-20201119002535809.png)
 
 
 

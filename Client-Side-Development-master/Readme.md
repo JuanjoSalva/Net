@@ -24,13 +24,13 @@ Después de completar esta práctica de laboratorio, podrá:
 - Diseñe la aplicación usando Sass y Bootstrap.
 
 **Index**
-![buy](https://github.com/JuanjoSalva/Client-Side-Development/blob/master/IceCreamCompany/img/Index.PNG)
+![buy](Index.PNG)
 
 **Comprar**
-![buy](https://github.com/JuanjoSalva/Client-Side-Development/blob/master/IceCreamCompany/img/buy.PNG)
+![buy](buy.PNG)
 
 **Una vez comprado**
-![buy](https://github.com/JuanjoSalva/Client-Side-Development/blob/master/IceCreamCompany/img/final.PNG)
+![buy](final.PNG)
 
 
 

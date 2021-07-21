@@ -17,11 +17,11 @@ ASP.NET Core Web Application
 
 
 
-![image-20201118235530891](https://github.com/JuanjoSalva/Exploring-an-MVC-Application/blob/master/images/image-20201118235530891.png)
+![image-20201118235530891](image-20201118235530891.png)
 
-![image-20201118235544029](https://github.com/JuanjoSalva/Exploring-an-MVC-Application/blob/master/images/image-20201118235544029.png)
+![image-20201118235544029](image-20201118235544029.png)
 
-![image-20201118235558420](https://github.com/JuanjoSalva/Exploring-an-MVC-Application/blob/master/images/image-20201118235558420.png)
+![image-20201118235558420](image-20201118235558420.png)
 
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguno

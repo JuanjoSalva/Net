@@ -5,13 +5,13 @@ por ejemplo, basado en roles.
 
 En nuestra aplicación no spide login:
 
-![index](https://github.com/JuanjoSalva/Authorization-in-ASP.NET-Core/blob/master/IdentityExample/img/index.PNG)
+![index](index.PNG)
 
 
 
 Podemos crear la cuenta:
 
-![register](https://github.com/JuanjoSalva/Authorization-in-ASP.NET-Core/blob/master/IdentityExample/img/register.PNG)
+![register](register.PNG)
 
 
 
@@ -23,7 +23,7 @@ Si no nos logamos e intentamnos entrar en cursos,  nos deja entrar porque en el 
             return View(_studentContext.Courses.ToList());
         }
 
-![cursos](https://github.com/JuanjoSalva/Authorization-in-ASP.NET-Core/blob/master/IdentityExample/img/cursos.PNG)
+![cursos](cursos.PNG)
 
 
 
@@ -37,10 +37,11 @@ Sin embrago, si intentamos entrar en el Portal del Estudiante, vemos que tenemos
 
 Y no nos deja entrar, llevandonos a la página de login:
 
-![login](https://github.com/JuanjoSalva/Authorization-in-ASP.NET-Core/blob/master/IdentityExample/img/login.PNG)
+![login](login.PNG)
 
 
 
 Pero si estanos logados y entramos en el portal del estudiantes, nos deja entrar
 
-![welcome](https://github.com/JuanjoSalva/Authorization-in-ASP.NET-Core/blob/master/IdentityExample/img/welcome.PNG)
+![welcome](welcome.PNG)
+

@@ -81,19 +81,19 @@ Las principales tareas de este ejercicio son las siguientes:
 
 Iniciamo la aplicación y nos lleva a Home para mostrar las sucursales:
 
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/Inicio.PNG)
+![Inicio](Inicio.PNG)
 
 
 
 Introducimos un trabajo:
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/PuestoTrabajo.PNG)
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/PuestoTrabajoIn.PNG)
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/PuestoTrabajoOut.PNG)
+![Inicio](/PuestoTrabajo.PNG)
+![Inicio](PuestoTrabajoIn.PNG)
+![Inicio](PuestoTrabajoOut.PNG)
 
 Hacemos una reserav:
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/Reservation.PNG)
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/ReservationIn.PNG)
-![Inicio](https://github.com/JuanjoSalva/Implementing-Web-APIs/blob/master/Client/img/ReservationOut.PNG)
+![Inicio](Reservation.PNG)
+![Inicio](ReservationIn.PNG)
+![Inicio](ReservationOut.PNG)
 
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguno

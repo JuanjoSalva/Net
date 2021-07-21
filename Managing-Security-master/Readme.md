@@ -18,9 +18,8 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
 
 	- Avoid the Cross-Site Request Forgery attack.
 
-
 **Index**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Index_Logado.PNG)
+![index](Index_Logado.PNG)
 	
 **Ejercicio 1:** Utilice la identidad
 
@@ -42,10 +41,10 @@ Las principales tareas de este ejercicio son las siguientes:
 	
 
 **login**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Login.PNG)
+![index](Login.PNG)
 
 **Register**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Register.PNG)
+![index](Register.PNG)
 	
 	
 	
@@ -71,24 +70,24 @@ Las principales tareas de este ejercicio son las siguientes:
 Vemos que el menú es diferente si estas logado como administrador o si no, ya que al administardor deja insertar libros
 
 **Si no**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Index.PNG)
+![index](Index.PNG)
 
 **Si intentamos entrar en Libarry sin estar logados**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Library.PNG)
+![index](Library.PNG)
 
 **Administrador**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Index_Logado.PNG)
+![index](Index_Logado.PNG)
 
 **Añadir libros**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/añadir.PNG)
+![index](añadir.PNG)
 
 **Nuestro libros**
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Our.PNG)
+![index](Our.PNG)
 
 
 Una vez logados como miembros, (no Administrator),  en la plicación intentamos cambiar la url a una de añadir librosy nos da el error de permiso denegado
 
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Nopermiso.PNG)
+![index](Nopermiso.PNG)
 
 
 
@@ -113,17 +112,17 @@ Se ha creado un nuevo proyecto para probar el ataque, con un controlador donde l
 <form action="http://localhost:61845/Account/Register?FirstName=Forgery1_Attacker&LastName=Cross_Site&PhoneNumber=123&Email=attack@@.com&UserName=Forgery_Attacker&Password=123qwe!!!QWE123&RoleName=Administrator" method="post">
         <input type="submit" value="Attack">
     </form>
-    
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Attack1.PNG)
 
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/Attack2.PNG)
+![index](Attack1.PNG)
+
+![index](Attack2.PNG)
 
 
 Para evitarlo en el registro por POST de los comtroladores se añade la decoracion
 [ValidateAntiForgeryToken] y así te lleva al index.
 
-![index](https://github.com/JuanjoSalva/Managing-Security/blob/master/CrossSiteRequestForgeryAttack/img/IndexPNG) 
+![index](Index.PNG) 
 
 
-	
+​	
 4. **Dificultad o problemas presentados y como se resolvieron:** 

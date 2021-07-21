@@ -117,9 +117,9 @@ Si el cliente está autenticado y el propietario de la foto actual tiene el mism
 8.	Si el cliente confirma la eliminación, la foto se elimina de la base de datos junto con todos los comentarios al respecto.  
 
 9.	La aplicación web muestra la galería de fotos al cliente.  
- 
+
 Figura 1. Resumen de los casos de Uso
-![image-20201118233047824](https://github.com/JuanjoSalva/Designing-ASP.NET-Core-MVC-Web-Applications/blob/main/Captura.PNG)
+![image-20201118233047824](Captura.PNG)
 
 
 

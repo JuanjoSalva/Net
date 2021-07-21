@@ -4,13 +4,13 @@
 
 Accedemos a la web y vemos que no funciona
 
-![web_no_escuchando](https://github.com/JuanjoSalva/HOSTI-N-WINDOWS-SERVICES/blob/main/img/web_no_escuchando.PNG)
+![web_no_escuchando](web_no_escuchando.PNG)
 
 Para que funcione, vamos a hacer un hosting como servicio de windows.
 
 Creo el servicio
 
-![CreoServicioMsdos](https://github.com/JuanjoSalva/HOSTI-N-WINDOWS-SERVICES/blob/main/img/CreoServicioMsdos.PNG)
+![CreoServicioMsdos](CreoServicioMsdos.PNG)
 
 
 
@@ -18,13 +18,13 @@ Se ha creado el servicio
 
 
 
-![servicio_creado](https://github.com/JuanjoSalva/HOSTI-N-WINDOWS-SERVICES/blob/main/img/servicio_creado.PNG)
+![servicio_creado](servicio_creado.PNG)
 
 
 
 Ahora entramos en la web y vemos que si funciona
 
-![web_escuchando](https://github.com/JuanjoSalva/HOSTI-N-WINDOWS-SERVICES/blob/main/img/web_escuchando.PNG)
+![web_escuchando](web_escuchando.PNG)
 
 
 
@@ -32,4 +32,4 @@ Ahora entramos en la web y vemos que si funciona
 
 Borro el servicio
 
-![se_borra](https://github.com/JuanjoSalva/HOSTI-N-WINDOWS-SERVICES/blob/main/img/se_borra.PNG)
+![se_borra](se_borra.PNG)

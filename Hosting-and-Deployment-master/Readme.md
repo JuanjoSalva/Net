@@ -44,46 +44,43 @@ Las principales tareas de este ejercicio son las siguientes:
 - Actualice la aplicación e impleméntela en Azure.
 
 Esta es la página:
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/index.PNG)
+![subir_estos](index.PNG)
 
 Insertamos nuevo pez
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertar.PNG)
+![subir_estos](insertar.PNG)
 
 Lo mostramos
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/insertado.PNG)
+![subir_estos](insertado.PNG)
 
 Actualizamos el nombre de un pez y vemos que se cambia
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_editado.PNG)
+![subir_estos](azure_editado.PNG)
 
 
 Borramos un pez y vemos que ya no sale
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_delete.PNG)
-
+![subir_estos](azure_delete.PNG)
 
  Creamos en el Portal Azure un recurso: Web app + Sql
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/WebAppBBDD.PNG)
-
+![subir_estos](WebAppBBDD.PNG)
 
 Publicamos en Azure desde Visual Studio
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visualstudio_publish.PNG)
+![subir_estos](visualstudio_publish.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/visual_publishPNG.PNG)
-
+![subir_estos](visual_publishPNG.PNG)
 
 Añadimos nuevo campo en la base de datos y restauramos la bbdd
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/nuevo_campo.PNG)
+![subir_estos](nuevo_campo.PNG)
 
 Vemos el resultado en el portal de Azure
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_recursos.PNG)
+![subir_estos](azure_recursos.PNG)
 
 
 Damos permisos a nuestra ip:
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/security.PNG)
+![subir_estos](security.PNG)
 
 
 
@@ -104,18 +101,16 @@ Las principales tareas de este ejercicio son las siguientes:
 
 CReamos un recurso nuevo: blob storage
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/azure_a%C3%B1adido_storage.PNG)
-
+![subir_estos](azure_a%C3%B1adido_storage.PNG)
 
 añadimos una foto al storage
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_azure.PNG)
+![subir_estos](a%C3%B1adido_blob_azure.PNG)
 
-![subir_estos](https://github.com/JuanjoSalva/Hosting-and-Deployment/blob/master/Underwater/img/a%C3%B1adido_blob_web.PNG)
+![subir_estos](a%C3%B1adido_blob_web.PNG)
 
 
 
 Ahora las fotos als coge del local si están y si no del Blob Storage
-
 
 
 
