@@ -8,13 +8,13 @@ Se crea el WebApi por codigo:
 
 dotnet new webapi -n Mod8Demo1LoggerStarter -f netcoreapp2.1  
 
-![webapi](webapi.PNG)
+![webapi](img/webapi.PNG)
 
 
 
 Se cambia código y se ejecuta
 
-![ejecutamos](ejecutamos.PNG)
+![ejecutamos](img/ejecutamos.PNG)
 
 
 
@@ -22,16 +22,16 @@ Entramos en la url para ver el GetAll:
 
 https://localhost:5001/api/values
 
-![allvalues](allvalues.PNG)
+![allvalues](img/allvalues.PNG)
 
 Entramos en la url para ver un valor:
 
 https://localhost:5001/api/values/1
 
-![value1](value1.PNG)
+![value1](img/value1.PNG)
 
 
 
 Vemos los logg
 
-![logg](logg.PNG)
+![logg](img/logg.PNG)

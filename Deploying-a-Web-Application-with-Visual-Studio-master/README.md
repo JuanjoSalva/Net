@@ -4,11 +4,11 @@
 
 Creamos la solucion: una ASP.NET Core Web Application API
 
-![creosolucion](creosolucion.PNG)
+![creosolucion](img/creosolucion.PNG)
 
 Abrimos Azure y creamos un App Service
 
-![CreoAppWeb](CreoAppWeb.PNG)
+![CreoAppWeb](img/CreoAppWeb.PNG)
 
 
 
@@ -18,14 +18,14 @@ Volvemos al Visual Studio y abrimos explorador de servidores y desplegamos Azure
 
 Publicamos desde Visual Studio
 
-![public1](public1.PNG)
+![public1](img/public1.PNG)
 
 Publicamos el que ya existe en nuestra cuenta
 
-![public2](public2.PNG)
+![public2](img/public2.PNG)
 
 
 
 Navegamos a la ruta: http://mod6demo1jsr1.azurewebsites.net/api/values
 
-![web](web.PNG)
+![web](img/web.PNG)

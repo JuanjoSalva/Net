@@ -24,13 +24,13 @@ Después de completar esta práctica de laboratorio, podrá:
 - Diseñe la aplicación usando Sass y Bootstrap.
 
 **Index**
-![buy](Index.PNG)
+![buy](img/Index.PNG)
 
 **Comprar**
-![buy](buy.PNG)
+![buy](img/buy.PNG)
 
 **Una vez comprado**
-![buy](final.PNG)
+![buy](img/final.PNG)
 
 
 

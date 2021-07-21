@@ -6,7 +6,7 @@ Creamos una webapi
 
 dotnet new webapi -n Mod8Demo2SerilogStarter -f netcoreapp2.1   
 
-![cramoswebapi](cramoswebapi.PNG)
+![cramoswebapi](img/cramoswebapi.PNG)
 
 
 
@@ -14,7 +14,7 @@ Añadimos paquete Serilog.AspNetCore
 
 dotnet add package Serilog.AspNetCore --version 2.1.1
 
-![anadimospackage](anadimospackage.PNG)
+![anadimospackage](img/anadimospackage.PNG)
 
 
 
@@ -22,7 +22,7 @@ añadimos paquete Serilog Colored Console
 
 dotnet add package Serilog.Sinks.ColoredConsole --version 3.0.1
 
-![anadimospackage2](anadimospackage2.PNG)
+![anadimospackage2](img/anadimospackage2.PNG)
 
 añadimos code al Program.cs
 
@@ -37,10 +37,10 @@ using Serilog;
 
 Ejecutamos
 
-![ejecutado](ejecutado.PNG)
+![ejecutado](img/ejecutado.PNG)
 
 
 
 Mostramos la web
 
-![web](web.PNG)
+![web](img/web.PNG)

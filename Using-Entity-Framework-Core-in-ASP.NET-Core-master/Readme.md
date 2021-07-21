@@ -34,22 +34,22 @@ Update-Database
 
 Al ejecutar:
 
-![principal](principal.PNG)
+![principal](img/principal.PNG)
 
 
 
 **Editar:**
 
-![Editar](Editar.PNG)
+![Editar](img/Editar.PNG)
 
 **Details:**
 
-![details](details.PNG)
+![details](img/details.PNG)
 
 **Crear:**
 
-![Crear](Crear.PNG)
+![Crear](img/Crear.PNG)
 
 **Delete:**
 
-![delete](delete.PNG)
+![delete](img/delete.PNG)

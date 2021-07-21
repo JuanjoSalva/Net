@@ -45,32 +45,32 @@ Las principales tareas de este ejercicio son las siguientes:
 
 Iniciamos la aplicación y vemos como la eqtiqueta muestra la hora de incio de sessión. Si al rato abro otra ventana muestra la misma hora que está en caché
 
-![inicio](etiqueta_cache.PNG)
+![inicio](img/etiqueta_cache.PNG)
 
 
 Al ir a la cesta vemos que no hay nada
 
-![inicio](objetos_inicio.PNG)
+![inicio](img/objetos_inicio.PNG)
 
 Al ir al comrar una impresora hay que mertr los datos personales
-![inicio](datos_inicio.PNG)
+![inicio](img/datos_inicio.PNG)
 
 los metemos y compram,os:
-![inicio](primera_compra.PNG)
+![inicio](img/primera_compra.PNG)
 
 Al ir a la compra vemos que se ha añadido la impresora
 
-![inicio](ver_primera_compra.PNG)
+![inicio](img/ver_primera_compra.PNG)
 
 
 Vulevo a comrar, ahora un atele, y vemos que mis datos se han guardado en caché
 
-![inicio](seunda_compra.PNG)
+![inicio](img/seunda_compra.PNG)
 
 
 Al volver a la lista aprace la tele y la impresora que ya estaba
 
-![inicio](lista_segunda_compra.PNG)
+![inicio](img/lista_segunda_compra.PNG)
 
 **Exercise 2:** 
 GEstión del estado
@@ -90,7 +90,7 @@ Las principales tareas de este ejercicio son las siguientes:
 
 Ponemos tiempo para la sesión, si no se hace nada en 1 minutos la sesión y su datos terminan
 
-![inicio](sesion_cancelada.PNG)
+![inicio](img/sesion_cancelada.PNG)
 
 **Ejercicio 3:** 
 Comunicación bidireccionalGuión
@@ -109,4 +109,4 @@ Las principales tareas de este ejercicio son las siguientes:
 5. Ejecutar la aplicación
 
 En la lista hay un botón que abe uun chat
-![inicio](chat.PNG)
+![inicio](img/chat.PNG)

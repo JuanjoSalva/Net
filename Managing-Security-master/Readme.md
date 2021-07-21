@@ -19,7 +19,7 @@ Entregar el url de GitHub con la solución y un readme con las siguiente informa
 	- Avoid the Cross-Site Request Forgery attack.
 
 **Index**
-![index](Index_Logado.PNG)
+![index](img/Index_Logado.PNG)
 	
 **Ejercicio 1:** Utilice la identidad
 
@@ -41,10 +41,10 @@ Las principales tareas de este ejercicio son las siguientes:
 	
 
 **login**
-![index](Login.PNG)
+![index](img/Login.PNG)
 
 **Register**
-![index](Register.PNG)
+![index](img/Register.PNG)
 	
 	
 	
@@ -70,24 +70,24 @@ Las principales tareas de este ejercicio son las siguientes:
 Vemos que el menú es diferente si estas logado como administrador o si no, ya que al administardor deja insertar libros
 
 **Si no**
-![index](Index.PNG)
+![index](img/Index.PNG)
 
 **Si intentamos entrar en Libarry sin estar logados**
-![index](Library.PNG)
+![index](img/Library.PNG)
 
 **Administrador**
-![index](Index_Logado.PNG)
+![index](img/Index_Logado.PNG)
 
 **Añadir libros**
-![index](añadir.PNG)
+![index](img/añadir.PNG)
 
 **Nuestro libros**
-![index](Our.PNG)
+![index](img/Our.PNG)
 
 
 Una vez logados como miembros, (no Administrator),  en la plicación intentamos cambiar la url a una de añadir librosy nos da el error de permiso denegado
 
-![index](Nopermiso.PNG)
+![index](img/Nopermiso.PNG)
 
 
 
@@ -113,15 +113,15 @@ Se ha creado un nuevo proyecto para probar el ataque, con un controlador donde l
         <input type="submit" value="Attack">
     </form>
 
-![index](Attack1.PNG)
+![index](img/Attack1.PNG)
 
-![index](Attack2.PNG)
+![index](img/Attack2.PNG)
 
 
 Para evitarlo en el registro por POST de los comtroladores se añade la decoracion
 [ValidateAntiForgeryToken] y así te lleva al index.
 
-![index](Index.PNG) 
+![index](img/Index.PNG) 
 
 
 ​	

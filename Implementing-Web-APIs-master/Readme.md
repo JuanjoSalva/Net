@@ -81,19 +81,19 @@ Las principales tareas de este ejercicio son las siguientes:
 
 Iniciamo la aplicación y nos lleva a Home para mostrar las sucursales:
 
-![Inicio](Inicio.PNG)
+![Inicio](img/Inicio.PNG)
 
 
 
 Introducimos un trabajo:
-![Inicio](/PuestoTrabajo.PNG)
-![Inicio](PuestoTrabajoIn.PNG)
-![Inicio](PuestoTrabajoOut.PNG)
+![Inicio](img/PuestoTrabajo.PNG)
+![Inicio](img/PuestoTrabajoIn.PNG)
+![Inicio](img/PuestoTrabajoOut.PNG)
 
 Hacemos una reserav:
-![Inicio](Reservation.PNG)
-![Inicio](ReservationIn.PNG)
-![Inicio](ReservationOut.PNG)
+![Inicio](img/Reservation.PNG)
+![Inicio](img/ReservationIn.PNG)
+![Inicio](img/ReservationOut.PNG)
 
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguno

@@ -21,9 +21,9 @@ string cmdCreateProcedure = @"CREATE PROCEDURE spUpdateGrades @CourseName nvarch
                                               </code></pre>
   Y tenemos como resultado:
                                               
-![Result](Result.PNG)
+![Result](img/Result.PNG)
 
 
 Lo podemos ver en el Azure Daya Studio:
 
-![Result](Captura.PNG)
+![Result](img/Captura.PNG)

@@ -16,8 +16,8 @@ Se desarolla una web con RazorPage que muestra listado de Actores y un link a de
 ASP.NET Core Web Application
   Web Application
 
-  ![image-20201118234230144](image-20201118234206884.png)
+  ![image-20201118234230144](img/image-20201118234206884.png)
 
-  ![image-20201118234230144](image-20201118234230144.png)
+  ![image-20201118234230144](img/image-20201118234230144.png)
 
 4. **Dificultad o problemas presentados y como se resolvieron:** Ninguno

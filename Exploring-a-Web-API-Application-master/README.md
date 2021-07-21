@@ -14,12 +14,12 @@ Se desarolla una web Api que muestra listado de tartas. Maneja 2 acciones: lista
 ASP.NET Core Web Application
   Web API
 
-![image-20201118234900573](image-20201118234900573.png)
+![image-20201118234900573](img/image-20201118234900573.png)
 
-![image-20201118234949234](image-20201118234949234.png)
+![image-20201118234949234](img/image-20201118234949234.png)
 
 
 
-![image-20201118235005405](image-20201118235005405.png)
+![image-20201118235005405](img/image-20201118235005405.png)
 
 4. **Dificultad o problemas presentados y como se resolvieron:**  Ninguno

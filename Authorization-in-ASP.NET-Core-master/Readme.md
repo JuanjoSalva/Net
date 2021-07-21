@@ -5,13 +5,13 @@ por ejemplo, basado en roles.
 
 En nuestra aplicación no spide login:
 
-![index](index.PNG)
+![index](img/index.PNG)
 
 
 
 Podemos crear la cuenta:
 
-![register](register.PNG)
+![register](img/register.PNG)
 
 
 
@@ -23,7 +23,7 @@ Si no nos logamos e intentamnos entrar en cursos,  nos deja entrar porque en el 
             return View(_studentContext.Courses.ToList());
         }
 
-![cursos](cursos.PNG)
+![cursos](img/cursos.PNG)
 
 
 
@@ -37,11 +37,11 @@ Sin embrago, si intentamos entrar en el Portal del Estudiante, vemos que tenemos
 
 Y no nos deja entrar, llevandonos a la página de login:
 
-![login](login.PNG)
+![login](img/login.PNG)
 
 
 
 Pero si estanos logados y entramos en el portal del estudiantes, nos deja entrar
 
-![welcome](welcome.PNG)
+![welcome](img/welcome.PNG)
 

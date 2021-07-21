@@ -14,10 +14,10 @@ En este ejemplo, puede ver cómo se administra una sala de chat. Cada usuario qu
 En nuestro ejemplo se crea un tablero con una matriz de 3 x 3 botones. Se abren varias ventanas y cuando se pulsa sobre un botón se cambia de color y se replica en el resto de clientes.
 
 Inicio, abro 2 ventanas:
-![inicio](inicio.PNG)
+![inicio](img/inicio.PNG)
 
 Pulso sobre un botón del ventana de la izquierda y veo si se replica en la otra:
-![inicio](pulso_izq.PNG)
+![inicio](img/pulso_izq.PNG)
 
 Pulso sobre un botón del ventana de la derecha y veo si se replica en la otra:
-![inicio](pulso_drch.PNG)
+![inicio](img/pulso_drch.PNG)

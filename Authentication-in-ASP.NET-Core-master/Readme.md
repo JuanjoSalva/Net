@@ -7,15 +7,15 @@ Nuestra aplicación nos pide el login
 
 Index:
 
-![index](index.PNG)
+![index](img/index.PNG)
 
 Podemos crear nuestra cuenta pulsando register:
 
-![register](register.PNG)
+![register](img/register.PNG)
 
 Y una vez nos validamos o creamos cuenta entra en la aplicacion:
 
-![Sucess](Sucess.PNG)
+![Sucess](img/Sucess.PNG)
 
 
 Toda esta operativa se lleva acabo en el controlador AccountController.cs de la carpeta de Controllers.

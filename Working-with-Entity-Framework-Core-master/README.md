@@ -40,7 +40,7 @@ public IActionResult Create()​
 
 ​	_context.Add(new Person() { FirstName = "Robert", LastName = "Berends", City = "Birmingham", Address = "2632 Petunia Way" }); _context.SaveChanges(); return RedirectToAction(nameof(Index)); }
 
-![Create](Create.PNG)
+![Create](img/Create.PNG)
 
 
 
@@ -63,7 +63,7 @@ public IActionResult Create()​
             return Content(person.FirstName);
     }
 
-![1](1.PNG)
+![1](img/1.PNG)
 
 //UPDATE
 public IActionResult Edit(int id)
@@ -77,7 +77,7 @@ public IActionResult Edit(int id)
 
 
 
-![update](update.PNG)
+![update](img/update.PNG)
 
          //DELETE
     public IActionResult Delete(int id)
@@ -89,4 +89,4 @@ public IActionResult Edit(int id)
 
 
 
-![delete](delete.PNG)
+![delete](img/delete.PNG)
