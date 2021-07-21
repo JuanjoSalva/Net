@@ -34,22 +34,22 @@ Update-Database
 
 Al ejecutar:
 
-![principal](https://github.com/JuanjoSalva/Using-Entity-Framework-Core-in-ASP.NET-Core/blob/master/Cupcakes/img/principal.PNG)
+![principal](principal.PNG)
 
 
 
 **Editar:**
 
-![Editar](https://github.com/JuanjoSalva/Using-Entity-Framework-Core-in-ASP.NET-Core/blob/master/Cupcakes/img/Editar.PNG)
+![Editar](Editar.PNG)
 
 **Details:**
 
-![details](https://github.com/JuanjoSalva/Using-Entity-Framework-Core-in-ASP.NET-Core/blob/master/Cupcakes/img/details.PNG)
+![details](details.PNG)
 
 **Crear:**
 
-![Crear](https://github.com/JuanjoSalva/Using-Entity-Framework-Core-in-ASP.NET-Core/blob/master/Cupcakes/img/Crear.PNG)
+![Crear](Crear.PNG)
 
 **Delete:**
 
-![delete](https://github.com/JuanjoSalva/Using-Entity-Framework-Core-in-ASP.NET-Core/blob/master/Cupcakes/img/delete.PNG)
+![delete](delete.PNG)

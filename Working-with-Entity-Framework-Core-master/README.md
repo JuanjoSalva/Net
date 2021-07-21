@@ -40,7 +40,7 @@ public IActionResult Create()​
 
 ​	_context.Add(new Person() { FirstName = "Robert", LastName = "Berends", City = "Birmingham", Address = "2632 Petunia Way" }); _context.SaveChanges(); return RedirectToAction(nameof(Index)); }
 
-![Create](https://github.com/JuanjoSalva/Working-with-Entity-Framework-Core/blob/master/EntityFrameworkExample/img/Create.PNG)
+![Create](Create.PNG)
 
 
 
@@ -63,7 +63,7 @@ public IActionResult Create()​
             return Content(person.FirstName);
     }
 
-![1](https://github.com/JuanjoSalva/Working-with-Entity-Framework-Core/blob/master/EntityFrameworkExample/img/1.PNG)
+![1](1.PNG)
 
 //UPDATE
 public IActionResult Edit(int id)
@@ -77,7 +77,7 @@ public IActionResult Edit(int id)
 
 
 
-![update](https://github.com/JuanjoSalva/Working-with-Entity-Framework-Core/blob/master/EntityFrameworkExample/img/update.PNG)
+![update](update.PNG)
 
          //DELETE
     public IActionResult Delete(int id)
@@ -89,4 +89,4 @@ public IActionResult Edit(int id)
 
 
 
-![delete](https://github.com/JuanjoSalva/Working-with-Entity-Framework-Core/blob/master/EntityFrameworkExample/img/delete.PNG)
+![delete](delete.PNG)

@@ -21,9 +21,9 @@ string cmdCreateProcedure = @"CREATE PROCEDURE spUpdateGrades @CourseName nvarch
                                               </code></pre>
   Y tenemos como resultado:
                                               
-![Result](https://github.com/JuanjoSalva/Running-Stored-Procedures/blob/master/img/Result.PNG)
+![Result](Result.PNG)
 
 
 Lo podemos ver en el Azure Daya Studio:
 
-![Result](https://github.com/JuanjoSalva/Running-Stored-Procedures/blob/master/img/Captura.PNG)
+![Result](Captura.PNG)
